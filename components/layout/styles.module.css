@@ -1,0 +1,22 @@
+.logo {
+    width:16%;
+}
+
+.infoHeading{
+    color:white;
+}
+
+.cardHeading{
+font-size: 18px;
+}
+
+.stepsHeadingLg{
+    text-align:left
+}
+.stepsHeadingLg2{
+    text-align:right
+}
+
+.navItemPointer {
+    cursor: pointer !important;
+}
